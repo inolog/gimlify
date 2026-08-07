@@ -5,7 +5,7 @@ Main module for Gimlify application.
 
 import argparse
 import logging
-import sys
+import sys 
 from typing import Optional
 
 class GuardNest:
