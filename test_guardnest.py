@@ -1,13 +1,13 @@
 # test_guardnest.py
 """
-Tests for GuardNest module.
+Tests for Gimlify module.
 """
 
 import unittest
 from guardnest import GuardNest
 
 class TestGuardNest(unittest.TestCase):
-    """Test cases for GuardNest class."""
+    """Test cases for Gimlify class."""
     
     def test_initialization(self):
         """Test class initialization."""
