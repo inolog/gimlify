@@ -1,6 +1,6 @@
 # guardnest.py
 """
-Main module for GuardNest application.
+Main module for Gimlify application.
 """
 
 import argparse
