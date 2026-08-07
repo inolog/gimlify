@@ -1,4 +1,4 @@
-*** Prompt: ***
+*** Prompt ***:
 Gimlify this image in the style of a epic high-fantasy Lord of the Rings poster.
 Turn the entire scene into a glorious Gimli-themed masterpiece:
 
